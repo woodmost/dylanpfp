@@ -2,32 +2,9 @@
 	<h1> My Portfolio </h1>
 </div>
 
-## Snapshot 📸
-
-![Portfolio Landing Page](https://user-images.githubusercontent.com/60526129/220429098-094368a0-c117-4036-a113-a625cf563c3c.png)
-
-## Tech Stack ✨
-
-- [React.js](https://reactjs.org/) - UI Library
-- [Framer Motion](https://www.framer.com/motion/) - Animations
-- [Create React App](https://create-react-app.dev/) - Build tool
-- [Netlify](https://www.netlify.com/) - Hosting and Deployment
-
 ## How to run locally 💻
 
 Follow these steps to run My Portfolio in your local machine.
-
-### Clone this repository
-
-```bash
-git clone https://github.com/woodmost/my-portfolio-1.git
-```
-
-### Navigate to directory
-
-```bash
-cd my-portfolio-1
-```
 
 ### Install NPM
 
